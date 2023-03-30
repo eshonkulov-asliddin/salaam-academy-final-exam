@@ -9,9 +9,9 @@
 
 ### if ga oid
 1. `soat` degan o'zgaruvchi bor va uni qiymati ozgarib turadi.`if` ni ishlatgan holda consolega chiqaring: <br>
-    agar soat 6 dan oshgan bolsa -> kitob oqiyapman <br>
-    agar soat 12 dan oshgan bolsa -> uxlayapman <br>
-    agar soat 17 dan oshgan bolsa - > sayr qiliyapman <br>
+    agar soat 6 dan kichik bolsa -> kitob oqiyapman <br>
+    agar soat 12 dan kichik bolsa -> uxlayapman <br>
+    agar soat 17 dan kichik bolsa - > sayr qiliyapman <br>
 
 2. Siz bilet sotadigan dastur yoziyapsiz.birinchi foydalanuchidan yoshini sorang va uni `yosh` degan o'zgaruvchiga saqlang.Endi: <br>
     agar yosh 20 dan katta bolsa -> bilet narxi 20 ming (console ga chiqaring) <br>
