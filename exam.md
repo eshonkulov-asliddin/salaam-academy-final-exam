@@ -3,7 +3,7 @@
 
 ### O'zgaruvchiga oid
 1. `davlat` nomli o'zgaruvchi yarating va unga Uzbekiston qiymatini bering.`aholi` degan o'zgaruvchi yarating, unga O'zbekiston aholisini kiriting.
-2.`dollar` degan o'zgaruvchi yarating va uning qiymatini 1000 dollarga tenglang. `alert` orqali 1000 dollar hozirgi so'mda qancha bolishini chiqaring.
+2. `dollar` degan o'zgaruvchi yarating va uning qiymatini 1000 dollarga tenglang. `alert` orqali 1000 dollar hozirgi so'mda qancha bolishini chiqaring.
 
 ---
 
