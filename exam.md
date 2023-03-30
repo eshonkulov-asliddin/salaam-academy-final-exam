@@ -15,7 +15,7 @@
 
 2. Siz bilet sotadigan dastur yoziyapsiz.birinchi foydalanuchidan yoshini sorang va uni `yosh` degan o'zgaruvchiga saqlang.Endi: <br>
     agar yosh 20 dan katta bolsa -> bilet narxi 20 ming (console ga chiqaring) <br>
-    agar yosh 10 dan katta bolsa -> bilet narxi 10 ming (console ga chiqaring)     <br>
+    agar yosh 10 dan kichik bolsa -> bilet narxi 10 ming (console ga chiqaring)     <br>
     bolmasa: <br>
         consolega teking deb chiqaring
  
